@@ -1,8 +1,7 @@
 # Responsive web design: the war has not yet been won
 
 Responsive Web Design. All the cool kids are doing it. We extolled the virtues
-of [Ethan’s holy trinity of fluid layouts, flexible images, and media
-queries](http://alistapart.com/article/responsive-web-design), and slowly but
+of [Ethan’s holy trinity of fluid layouts, flexible images, and media queries](http://alistapart.com/article/responsive-web-design), and slowly but
 surely everyone dropped fixed-width designs for websites that flex and bend to
 every scenario, and adapt to every device.
 
@@ -99,9 +98,11 @@ If you’ve read everything I’ve written so far, I’ve hopefully got across t
 points:
 
 * RWD is about making your site adaptable to any scenario, without worrying
-about specific devices and their proprietary dimensions. * RWD doesn’t need to
-take more time and therefore doesn’t need to cost your clients more money. At
-least not after you’ve rethought your approach to web design, anyway.
+about specific devices and their proprietary dimensions.
+
+* RWD doesn’t need to take more time and therefore doesn’t need to cost your
+clients more money. At least not after you’ve rethought your approach to web
+design, anyway.
 
 However, there may still be some of you out there who are still asking the
 simple question, ‘__but is it worth it?__’ And it’s actually a very valid
