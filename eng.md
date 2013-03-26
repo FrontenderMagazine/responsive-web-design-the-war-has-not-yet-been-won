@@ -38,9 +38,9 @@ mobile design. Nor is it tablet design, nor game console browser design, nor
 screen-on-your-futuristic-fridge design. RWD, in my opinion, should be device
 agnostic.
 
-Allow me to elaborate. From [the very first responsive site I
-created](http://2011.ampersandconf.com/), I made the decision to introduce media
-queries only when it felt natural to re-adjust the content, rather than when the
+Allow me to elaborate. From [the very first responsive site I created](http://2011.ampersandconf.com/),
+I made the decision to introduce media queries only when it felt natural to
+re-adjust the content, rather than when the
 screen width reached a device-specific dimensions, like ‘iPhone landscape’ or
 ‘iPad portrait’. I’ve always encouraged others to follow the same process, if
 for no other reason than it stops us thinking about specific devices, and in
@@ -110,7 +110,7 @@ question, especially in those circumstances — such as when you or your company
 are adapting to a RWD workflow — when it can equate to more time and greater
 costs.
 
-The answer, as always, is: ‘__it depends__.’
+The answer, as always, is: ‘_it depends_.’
 
 Some desktop-optimised designs work fine just as they are on tablets, which was
 one of GoCardless’ main points, and probably the main reason they saw RWD as
